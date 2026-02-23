@@ -1,0 +1,72 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+
+table continenti {
+  id_continente integrer [primary key]
+  nome varchar
+}
+ 
+ table nazioni {
+  id_nazione integrer [primary key]
+  id_continente integrer
+  bandiera varchar
+  nome varchar
+  lingua varchar
+}
+
+table leghe {
+  id_lega integrer [primary key]
+  id_nazione integrer
+  nome varchar
+  nazione varchar 
+  squadre varchar
+}
+
+table squadre {
+  id_squadra integrer [primary key]
+  id_lega integer
+  nome varchar
+  soprannome varchar 
+  punti int
+  modulo int 
+}
+
+table marcatori {
+   id_marcatore integrer [primary key]
+   codice_fiscale varchar 
+   id_squadra integrer
+   nome varchar
+   cognome varchar
+   nazionalità varchar 
+ }
+
+
+table partita {
+  id_partita integrer [primary key]
+  id_squadra_casa integer
+  id_squadra_ospite integer
+}
+
+table goal {
+  id_marcatore integrer [primary key]
+  id_partita integer
+  n_goal int
+}
+
+
+Ref: "continenti"."id_continente" < "nazioni"."id_continente"
+
+Ref: "nazioni"."id_nazione" < "leghe"."id_nazione"
+
+Ref: "leghe"."id_lega" < "squadre"."id_lega"
+
+Ref: "squadre"."id_squadra" < "marcatori"."id_squadra"
+
+Ref: "partita"."id_squadra_ospite" < "squadre"."id_squadra"
+
+Ref: "partita"."id_squadra_casa" < "squadre"."id_squadra"
+
+Ref: "goal"."id_partita" < "partita"."id_partita"
+
+Ref: "goal"."id_marcatore" < "marcatori"."id_marcatore"
