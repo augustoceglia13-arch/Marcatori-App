@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Database_Marcatori/Database_Marcatori.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
