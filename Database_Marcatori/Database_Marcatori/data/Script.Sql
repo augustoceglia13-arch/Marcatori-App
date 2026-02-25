@@ -6,52 +6,56 @@
   (4,'Asia'),
   (5,'Africa')
  
- att river plate:  
+ //ATTACCANTI AMERICANI
+ 
+ river plate:  
 
   Matías Suárez,
   Federico Girotti,
   Lucas Beltrán, 
   Esequiel Barco
 
-  att boca juniors:
+  boca juniors:
 
   Darío Benedetto,
   Luis Vázquez, 
   Exequiel Zeballos,
   Sebastián Villa
-  att racing club: 
+  
+  racing club: 
+
   Héctor Fertoli ,
   Lisandro López , David Barbona , 
   Jonathan Cristaldo 
 
-  att independiente: 
+  independiente: 
   
   Silvio Romero,
   Leandro Fernández,
   Cecilio Domínguez,
   Kevin Gauna
 
-  att belgrano:
+  belgrano:
   
   Lucas Melano,
   Federico Bravo ,
   Alexis Ferrero , 
     Juan Brunetta
   
-  att quilmes:
+  quilmes:
   
   Maximiliano Caire ,
   Lautaro Parisi, 
   Gabriel Graciani
  
- att instituto:
+  instituto:
   
   Lucas Gamba,
   Pablo Vegetti,
   Federico Andrada,
   Santiago Silva 
   
-  att all boys:
+  all boys:
   
   Walter Bou,
   Luciano Ferreyra,
@@ -630,6 +634,8 @@ Rafael Quiñones
 Manuel Lugo 
 Jesús Gamarra
 
+//ATTACCANTI EUROPEI
+
 Juventus FC:
 
 Jonathan David 
@@ -675,7 +681,6 @@ Jérémy Le Douaron
 Lecce:
 
 Nikola Stulic 
-Konan N’Dri
 Francesco Camarda 
 Riccardo Sottil
 Santiago Pierotti
@@ -1146,8 +1151,663 @@ Hrvatski Dragovoljac:
 Lovre Čirjak 
 Mihael Stipić
 
+//ATTACCANTI ASIATICI
+
+Kawasaki Frontale:
+
+Yu Kobayashi﻿
+Akihiro Ienaga 
+Tatsuya Ito 
+Ten Miyagi 
+
+Yokohama F. Marinos:
+
+Daiya Tōno 
+Kaina Tanimura
+
+Urawa Red Diamonds:
+
+Shoya Nakajima 
+Takahiro Sekine 
+Ryoma Watanabe
+Yusuke Matsuo
+
+Gamba Osaka:
+
+Takashi Usami 
+Makoto Mitsuta
+Daichi Hayashi 
+Deniz Hümmet  
+
+Omiya Ardija:
+
+Caprini ﻿
+Fabian Gonzalez ﻿
+Yuta Toyokawa
+
+FC Machida Zelvia:
+
+Shōta Fujio
+Takuma Nishimura
+
+V-Varen Nagasaki:
+
+Thiago Santana 
+Ryogo Yamasaki 
+Aoto Nanamure
+Kou Rei-Jin
+
+Tokushima Vortis:
+
+Lucas Barcelos Damacena 
+Daiki Watari 
+Thonny Anderson 
+Junma Miyazaki
+
+Guangzhou FC:
+
+Huang Guangliang 
+Huang Kaizhou 
+Wang Jingbin 
+Ling Jie
+
+Shanghai Port:
+
+Wu Lei
+
+Beijing Guoan:
+
+Fábio Abreu 
+Zhang Yuning 
+
+Shandong Taishan:
+
+Valeri Qazaishvili 
+Qingdao Hainiu: 
+
+Felicio Brown Forbes 
+
+Meizhou Hakka:
+
+Yun Liu 
+Tze Nam Yue 
+Michael Cheukoua
+
+Nantong Zhiyun:
+
+Rubilio Castillo
+
+Dalian Pro:
+
+Lin Liangming 
+Cesar Lobi Manzoki
+Streli Mamba
+
+ Jeonbuk Hyundai Motors:
+
+Andrea Compagno
+Tiago Orobó 
+Bruno Mota 
+Lee Dong-Jun
+
+Ulsan Hyundai FC:
+
+Magno Alves 
+Farias 
+Heo Y. Heo 
+S. Eom 
+
+FC Seoul:
+
+Jesse Lingard 
+Na Sang-Ho 
+Cho Young-Wook 
+Kim Shin-Jin
+
+Suwon Samsung Bluewings:
+
+An Byong-Jun 
+Oh Hyeon-Gyu
+Jang Ho-Ik 
+
+Gimcheon Sangmu FC:
+
+Ju-Chan Kim 
+
+Busan IPark: 
+
+Cho Ji-mook 
+Kim Sang-jun 
+
+Seoul E‑Land FC:
+
+Kazuki Kozuka 
+
+Cheonan City FC:
+
+Paulo Henrique
+
+⚽️ Al Ain FC:
+
+Kodjo Fo-Doh Laba
+Soufiane Rahimi 
+Houssine Rahimi 
+Rilwanu Haliru Sarki 
+Mohamed Awad Ibrahim 
+
+Al Wahda FC 
+
+Omar Khribin 
+Caio Canedo
+Facundo Kruspzky 
+
+Shabab Al Ahli Club:
+
+Munas Dabbur 
+Sardar Azmoun
+Yahya Al-Ghassani 
+Guilherme Bala
+
+Al Jazira Club:
+
+Adyson 
+Y. Zahli 
+A. Bougma 
+A. Sharifi 
+
+Hatta Club:
+
+Doro Dabo
+Goodnews Igbokwe
+Abdulaziz Dawood Sulaiman
+Rashid Mubarak
+
+Al Dhaid Cultural & Sports Club:
+
+Abdullah Morad
+
+Emirates Club:
+
+Ismail Al Hammadi 
+Pavle Obradović 
+Yaqoub Eisa 
+Diogo Farias Acosta
+
+Masfout Club:
+
+Hamza Ghatas 
+Matarr Badjie 
+Mohammed Gharib 
+Jassim Al Naqbi 
+Robayya Al Mesmara
+
+Al Hilal SFC:
+
+Karim Benzema 
+Aleksandar Mitrović 
+Marcos Leonardo 
+Abdullah Al‑Hamdan
+
+Al Nassr FC:
+
+Cristiano Ronaldo 
+
+Al Ittihad Club:
+
+Steven Bergwijn 
+
+Al Ahli Saudi FC:
+
+Ivan Toney 
+Firas Al‑Buraikan
+
+Al Khaleej FC:
+
+Joshua King 
+
+Al Fateh SC:
+
+Mourad Batna
+Matías Vargas
+
+Al Adalah FC:
+
+Joshua Mutale 
+Ranga Chivaviro 
+Mohammed Al‑Marri 
+Nawaf Bouamer 
+
+Al Batin FC:
+
+Abdoulay Diaby 
+Yousef Fawaz
+
+Mumbai City FC:
+
+Vikram Partap Singh 
+Lallianzuala Chhangte
+Jorge Ortiz 
+Ayush Chhikara 
+
+Mohun Bagan Super Giant:
+
+Jason Cummings 
+Dimitri Petratos
+Jamie Maclaren 
+
+Bengaluru FC:
+
+Sunil Chhetri 
+
+Kerala Blasters FC:
+
+Noah Sadaoui 
+Jesús Jiménez 
+Kwame Peprah 
+Ishan Pandita 
+
+Churchill Brothers:
+
+Wayde  Lekay
+Pape  Alassane  Gassama 
+Trijoy  Dias 
+
+Real Kashmir FC:
+
+Paulo  Cezar  Pereira  dos  Santos 
+Abdou Samb 
+
+Sreenidi Deccan FC:
+
+Juan  Castañeda 
+Ángel  Orelien 
+William
+
+RoundGlass Punjab FC:
+
+Luka Majcen 
+Juan Mera 
+Chencho Gyeltshen 
+Brandon Vanlalremdika
+
+Persija Jakarta:
+
+Maxwell Souza 
+Allano Brendon de Souza Lima
+Eksel Timothy Joseph Runtukahu 
+Gustavo Almeida dos Santos 
+
+Bali United:
+
+Privat Mbarga 
+Ilija Spasojević 
+
+PSM Makassar 
+
+Alex Tanque 
+Mirza Mustafić 
+Thijmen Goppel 
+
+Persebaya Surabaya:
+
+Bruno Moreira 
+
+RANS Nusantara FC:
+
+Agung Supriyanto
 
 
+Persis Solo:
+
+Ramadhan Sananta
+
+Persekat Tegal:
+
+Agung Supriyanto
+
+PSMS Medan:
+
+Felipe Cadenazzi
+Dani Saputra 
+Ari Maring
+Risman Ariyanto Maring
+
+Persepolis FC:
+
+Ali Alipour 
+Igor Sergeev 
+Thievy Bifouma 
+
+Esteghlal FC:
+
+Jasir Asani 
+
+Sepahan FC:
+
+Arash Rezavand
+Mohammad Askari 
+
+Tractor SC:
+
+Amirhossein Hosseinzadeh 
+Domagoj Drožđek 
+
+Mes Rafsanjan FC:
+
+Mehdi Sharifi 
+
+Havadar SC:
+
+Saman Nariman Jahan
+
+Fajr Sepasi FC:
+
+Shervin Bozorg
+Hossein Shahabi
+
+Naft Masjed Soleyman FC:
+
+Ali Alkasir
+Ali Mohammadi 
+Peyman Ranjbari
+Mahmoud Salehi
+
+Maccabi Haifa FC:
+
+Dean David 
+Ricardinho 
+Guy Melamed 
+
+Hapoel Be’er Sheva FC:
+
+Dan Biton 
+Jovan East 
+Igor Zlatanović 
+
+
+Maccabi Tel Aviv FC:
+
+Heriberto Tavares
+Issouf Sissokho 
+
+Beitar Jerusalem FC:
+
+Nehoray Dabush
+
+Hapoel Haifa FC:
+
+Alon Turgeman 
+
+Bnei Sakhnin FC:
+
+Jubayer Bushnak 
+Ahmad Salman 
+Artur Miranyan 
+
+Ironi Kiryat Shmona FC:
+
+Adrián Ugarriza 
+Fernando Pacheco 
+Wale Musa Alli
+
+Hapoel Jerusalem FC:
+
+Ruel Sotiriou 
+Matan Hozez 
+Marko Rakonjac 
+Orel Baye
+
+Johor Darul Ta’zim FC:
+
+Fernando Forestieri 
+Ally Samatta 
+Vincent Dias Dos Santos 
+Natanael Moreira Milouski 
+
+Terengganu FC:
+
+Marco Tulio 
+Leandro Velázquez 
+David Mawutor 
+Syafiq Ahmad 
+
+Sabah FC:
+
+Federico
+Kyran Lofthouse 
+Nam Tae‑hee 
+Gary Steven Robbat 
+
+Selangor FC:
+
+Patrick Wleh 
+Uche Agba 
+Endrick dos Santos 
+Shahrel Fikri
+
+Kedah Darul Aman FC:
+
+Nelson San‑Martin 
+Nurus Fazura 
+Mohd Syafiq Ahmad 
+Mohamed Azmi 
+
+Negeri Sembilan FC:
+
+Alvin Syarief 
+Abdul Latiff Suhaimi 
+Sean Selvaraj
+Haziq Ridwan 
+
+PDRM FC:
+
+Rozaimi Abdul Rahman 
+Nurshamil Abd Ghani 
+Muhammad Amirul Hisyam 
+Muhammad Syafiq Ahmad 
+
+Penang FC:
+
+Casagrande 
+Guy Gnabouyou 
+Kevin Gnatiko
+Norhakim Isa
+
+Al‑Seeb Club:
+
+Abdul Aziz Al‑Muqbali 
+Salah Al‑Yahyaei 
+Hassan Al‑Ajmi 
+Anthony Colin 
+
+Dhofar Club:
+
+Abdulrahman Al‑Mushaifri
+Sultan Al‑Marzouq 
+
+Al‑Nasr SC:
+
+Mulham Al‑Sinaidi 
+
+Suwaiq Club:
+
+Duane Muckette
+
+Al‑Shabab Club:
+
+Cosmos Dauda 
+
+Al‑Musannah Club:
+
+Younis Al‑Mushaifri
+Said Obaid Al‑Abdul 
+
+Al‑Oruba SC:
+
+Mohammed Taqi Al‑Lawati
+
+Bowsher Club: 
+
+Mohammed Taqi Al‑Lawati
+
+Al Sadd SC:
+
+Akram Afif 
+Baghdad Bounedjah 
+Bruno Uvini 
+Ali Asad
+
+Al Duhail SC:
+
+Michael Olunga 
+Youssef El‑Nesyri 
+Soufiane Rahimi 
+Aymen Barkok 
+
+Al Rayyan SC:
+
+Iago 
+Paulo César 
+Almoez Ali 
+Karim Boudiaf 
+
+Al Ahli SC:
+
+Alexsandro
+Pedro Miguel 
+Júnior Negão 
+Salem Al‑Hajri 
+
+Al Shahaniya SC:
+
+Róger Guedes 
+Ahmed Al‑Naama 
+Lucas Ribeiro 
+Hassan Al Mezaina 
+
+Al Kharaitiyat SC:
+
+Vitor Silva 
+Ali Al‑Jassem 
+Diego Souza 
+Hassan Al‑Rashid 
+
+Muaither SC:
+
+Yacine Braham 
+Hassan Al‑Amri 
+Alexandre Dias 
+Rashed Al‑Maawali 
+
+Al Markhiya SC:
+
+Walid Abbas 
+Hassan Al‑Wardi 
+Cleiton Silva 
+Majed Hassan
+
+Buriram United FC:
+
+Rafael Silva 
+Julian Carranza 
+Supachok Sarachat
+Kydon Karl Ade 
+
+Muangthong United FC:
+
+Heberty 
+Abdulrahman Al‑Madhagi 
+Diaz Geth 
+Marc Landry Babo 
+
+Port FC:
+
+Ayase Ueda 
+Pedro Henrique 
+Tana Chanabut 
+Ryohei Shirasaki 
+
+Chiangrai United FC:
+
+Heberty 
+Cristian González 
+Ekanit Panya 
+Suphanat Mueanta 
+
+Nakhon Ratchasima FC:
+
+Wutthipan Pantaree 
+Stanley Dimgba 
+Supachok Chaiyadet 
+Mongkol Tossakrai 
+
+Lampang FC:
+
+Siarhei Pyatrukovich 
+Rakpong Chumuang 
+Arthit Sunthornpit 
+Kritsada Kaman
+
+Rayong FC:
+
+Alex Plhipster 
+Phop Phonlangkae 
+Thitipan Puangchan 
+Gonzalo García
+
+Khon Kaen United FC:
+
+Soukaphone Vongchiengkham 
+Lee Seung‑Won 
+Kittisak Rawangpa 
+Mirul Aiman
+
+Hanoi FC:
+
+Alan Grafite 
+Joel Tagueu 
+
+Hoang Anh Gia Lai FC:
+
+T. Nguyen 
+D. Hà 
+
+
+Viettel FC:
+
+Amarildo Aparecido de Souza Junior 
+Văn Khang Khuất 
+Wesley Nata Wachholz
+
+
+Becamex Binh Duong FC:
+
+Nguyễn Trần Việt Cường
+
+
+Dong A Thanh Hoa FC:
+
+Rimario Allando Gordon
+
+Haiphong FC:
+
+Fred Friday 
+Joel Tagueu
+
+Nam Dinh FC:
+
+V. Nguyen 
+Rafaelson 
+Brenner
+
+Can Tho FC:
+
+Bạch Hồng Hân 
+Dương Văn An 
+Nguyễn Khắc Khiêm 
+Nguyễn Việt Thắng
+
+// ATTACCANTI OCEANICI 
 
 Sydney FC:
 
@@ -1259,4 +1919,52 @@ Hawke’s Bay United:
 Jorge Akers
 Ahinga Selemani
 
+//ATTACCANTI AFRICANI
 
+CR Belouizdad:
+
+Aymen Mahious 
+Abderrahmane Meziane 
+
+JS Kabylie:
+
+Redouane Berkane 
+Lahlou Akhrib
+
+
+MC Alger:
+
+Soufiane Bayazid 
+Amine Messoussa 
+Yacine Hamadouche 
+Moslem Anatouf
+
+USM Alger:
+
+Mehdi Merghem 
+Diaa Eddine Mechid 
+
+ASO Chlef:
+
+Yawo Agbagno
+
+
+
+WA Tlemcen:
+
+Mohamed Seguer 
+
+NC Magra:
+
+Fouad Bouali
+
+RC Arbaâ:
+
+Imad Eddine Belaziz 
+Zinedine Bensalem 
+Younes Ismail 
+Omar Radjah
+
+
+
+ 
