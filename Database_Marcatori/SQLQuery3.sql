@@ -5,6 +5,9 @@ SELECT TOP (1000) [Id]
   FROM [Marcatori].[dbo].[Leghe] 
   INSERT INTO [dbo].[Leghe] (Id, Id_Nazione, Nome, Squadre)
   VALUES
+
+--LEGHE AMERICANE
+
 (1, 1, 'Liga Profesional de Fútbol', 'River Plate, Boca Juniors, Racing Club, Independiente'),
 (2, 1, 'Primera Nacional', 'Belgrano, Quilmes, Instituto, All Boys'),
 (3, 2, 'División Profesional', 'The Strongest, Bolívar, Always Ready, Oriente Petrolero'),
@@ -31,6 +34,9 @@ SELECT TOP (1000) [Id]
 (24, 12, 'Segunda División Uruguay', 'Miramar Misiones, Atenas, Rampla Juniors, Oriental'),
 (25, 13, 'Primera División Venezuela', 'Caracas FC, Deportivo Táchira, Zamora, Monagas'),
 (26, 13, 'Segunda División Venezuela', 'Angostura, Ureña SC, Titanes FC, Bolívar SC'),
+
+--LEGHE EUROPEE
+
 (27, 24, 'Serie A', 'Juventus, Inter, AC Milan, Napoli'), 
 (28, 24, 'Serie B', 'Palermo, Lecce, Brescia, Benevento'),
 (29, 20, 'Ligue 1', 'Paris Saint-Germain, Marseille, Lyon, Monaco'),
@@ -53,6 +59,9 @@ SELECT TOP (1000) [Id]
 (46, 17, 'Vtora Liga', 'Montana, Botev Vratsa, Septemvri, Pirin'),
 (47, 18, 'Prva HNL Croazia', 'Dinamo Zagreb, Hajduk Split, Rijeka, Osijek'),
 (48, 18, 'Druga HNL', 'Šibenik, Istra 1961, Cibalia, Hrvatski Dragovoljac'),
+
+--LEGHE ASIATICHE
+
 (49, 46, 'J1 League', 'Kawasaki Frontale, Yokohama F. Marinos, Urawa Red Diamonds, Gamba Osaka'),
 (50, 46, 'J2 League', 'Omiya Ardija, V-Varen Nagasaki, Machida Zelvia, Tokushima Vortis'),
 (51, 43, 'Chinese Super League', 'Guangzhou FC, Shanghai Port, Beijing Guoan, Shandong Taishan'),
@@ -81,11 +90,17 @@ SELECT TOP (1000) [Id]
 (74, 54, 'Thai League 2', 'Nakhon Ratchasima, Lampang, Rayong, Khon Kaen United'),
 (75, 55, 'V-League 1', 'Hanoi FC, Hoang Anh Gia Lai, Viettel, Becamex Binh Duong'),
 (76, 55, 'V-League 2', 'Dong A Thanh Hoa, Haiphong, Nam Dinh, Can Tho'),
+
+--LEGHE OCEANICHE
+
 (77, 38, 'A-League Men', 'Sydney FC, Melbourne City, Brisbane Roar, Western Sydney Wanderers'),
 (78, 38, 'Y-League', 'Perth Glory Youth, Melbourne Victory Youth, Sydney FC Youth, Brisbane Roar Youth'),
 (79, 39, 'Solomon Islands S-League', 'Kossa, Solomon Warriors, Marist, Henderson Eels'),
 (80, 40, 'New Caledonia Super Ligue', 'Hienghène Sport, AS Magenta, AS Mont-Dore, AS Lössi'),
 (81, 41, 'New Zealand Football Championship', 'Team Wellington, Auckland City, Wellington Phoenix Reserves, Hawke’s Bay United'),
+
+--LEGHE AFRICANE
+
 (82, 56, 'Ligue 1 Algérie', 'CR Belouizdad, JS Kabylie, MC Alger, USM Alger'),
 (83, 56, 'Ligue 2 Algérie', 'ASO Chlef, WA Tlemcen, NC Magra, RC Arbaâ'),
 (84, 57, 'Elite One Camerun', 'Coton Sport, Union Douala, PWD Bamenda, Canon Yaoundé'),

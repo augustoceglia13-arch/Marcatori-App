@@ -1948,8 +1948,6 @@ ASO Chlef:
 
 Yawo Agbagno
 
-
-
 WA Tlemcen:
 
 Mohamed Seguer 
@@ -1965,6 +1963,540 @@ Zinedine Bensalem
 Younes Ismail 
 Omar Radjah
 
+Coton Sport
 
+Kamilou Daouda 
+Ramses Nguimzeu 
+Abdou-Bastou Madougou
 
+Union Douala:
+
+Rostand Junior Mbaï
+
+Canon Yaoundé:
+
+Paul Henri Tchikeu 
+Victoriel Yembe
+
+PWD Bamenda:
+
+Briliant Tanwie Awahmukalla 
+Eric Abanke 
+John Paul Nzo Ngong
+Fabrice Fotue Tochie
+
+Eding Sport:
+
+Jacques Zoua 
+Albert Meyong 
+David Eto’o 
+
+Dragon Club:
+
+Daniel Jules Oscar Wansi 
+
+Colombe:
+
+Patrick Handzongo 
+
+ Les Astres FC:
+
+Valentin Batto 
+Ismaila Seidou
+
+ASEC Mimosas:
+
+Ibrahim Dosso 
+Razak Cissé 
+Nadrey Dago 
+Hassan Sanogo
+
+Africa Sports:
+
+Ahmed Ouattara 
+Ibé Johnson 
+
+SOA:
+
+D. Dagrou 
+C. Ecua 
+D. Beranger Gautier
+
+San Pedro:
+
+Hubert Yao 
+Issouf Dosso 
+Dramane Kamagaté
+
+Bouaké FC: 
+
+Vally Cissé
+
+Stella Club d'Adjamé:
+
+Ashiraf Ojo 
+Arsène Adom 
+Alassane Zeba 
+Berthe Souleymane
+
+RC Abidjan:
+
+Issa Razack Benin 
+Luc Mendjana
+Rayan Alex Cissé 
+Evariste Oscar Jr. Nahounou
+
+SC Gagnoa:
+
+Francis Nda 
+Kévin Zougoula
+Mohamed Vieira
+
+Al Ahly:
+
+Wessam Abou Ali 
+
+Zamalek:
+
+Chico Banza 
+
+Pyramids FC:
+
+Ramadan Sobhi
+
+Ismaily SC:
+
+Marwan Hamdi 
+Khaled Al‑Nabris 
+Mohamed Ahmed Khatary 
+Omar El Kot
+
+Al Masry:
+
+Salah Mohsen
+Mounder Temine
+Kingsley Eduwo
+Ahmed Fouad
  
+El Gouna FC:
+
+Marwan  Mohsen
+Ojo  Tolulope
+Mohamed  El Nahas
+Amr  Khaled
+
+Nogoom FC:
+
+Abdallah Khaled 
+Mohamed Hammam 
+Ahmed Ashraf
+
+Aswan SC:
+
+Malick Evouna 
+Gedo 
+Mohamed Morsi
+Mohamed Osama
+
+Accra Hearts of Oak:
+
+Hamza Issah 
+Mawuli Wayo 
+Yaw Amankwa Baafi
+Enock Asubonteng 
+
+Asante Kotoko:
+
+Kwame Opoku 
+Nicholas Mensah 
+Jordan Amissah 
+Ibrahim Osman
+
+Ashanti Gold SC:
+
+Isaac Opoku Agyemang 
+Yaw Annor 
+Matthew Agama 
+Amos Nkrumah 
+
+Medeama SC:
+
+Prosper Owusu 
+Kofi Ansu 
+Jean Ourega
+
+Bechem United:
+
+Foster Sakitey
+Darlvin Yeboah 
+Steven Owusu Kaakyire 
+Clinton Duodu
+
+Liberty Professionals:
+
+Kwaku Karikari 
+
+King Faisal FC:
+
+Abednego Tetteh 
+
+Dreams FC:
+
+John Antwi
+Abdul Razak Salifu
+Dede Ishmael 
+Ernest Appiah
+
+Gor Mahia:
+
+Shariff Musa
+Felix Oluoch
+Bryson Wangai
+Reagan Ogolla
+
+AFC Leopards:
+
+Ovella Ochieng 
+Samuel Ssenyonjo
+
+Sofapaka:
+
+Caleb Amunga
+Reuben Otieno
+Paul Odhiambo
+Ezekiel Okare
+
+Bandari FC:
+
+Alfred Tanui
+
+Kariobangi Sharks:
+
+Humphrey Aroko 
+
+Nairobi City Stars:
+
+Robinson Asenwa
+
+Zoo FC:
+
+Nicholas Kipkirui
+
+Posta Rangers:
+
+Amos Asembeka
+
+Wydad Casablanca:
+
+Nordin Amrabat
+Hamza Hannouri 
+Thembinkosi Lorch 
+Walid Nassi
+
+Raja Casablanca:
+
+Soufiane Benjdida
+Mouad Dahak
+
+RS Berkane:
+
+Mouad Fekkak
+
+FUS Rabat:
+
+Ayoub  Mouloua 
+Chouaib  Faidi 
+Mohamed  El  Badoui
+Déo  Gracias  Bassinga
+
+Olympique de Khouribga:
+
+Zouhair Ouchen 
+Mohamed Lahlali 
+Fiston Abdul Razak
+Hamza El Fatouaki
+
+Moghreb Tétouan:
+
+Hamza Darai
+Bilal El Megri 
+Mohsine Moutouali 
+
+Ittihad Tanger:
+
+Mohamed Moutouali 
+J. Ghabra
+Haytham El Bahja
+
+Hassania Agadir:
+
+Baba Bello Ilou 
+Hamid Ahdad 
+Walid Jarmouni 
+Aziz Kaidi
+
+Enyimba FC:
+
+Chijioke Mbaoma
+Alade Balogun 
+Michael Chidera 
+
+Kano Pillars FC:
+
+Rabiu Ali
+Ibrahim Mustapha
+
+Shooting Stars SC:
+
+Christian Pyagbara 
+Ajayi Samuel 
+
+Rivers United FC:
+
+Chijioke Mbaoma 
+Friday Ubong
+Aniekeme Okon 
+Samuel Wisdom
+
+Plateau United FC:
+
+Albert Hilary 
+
+Akwa United FC:
+
+O. Kabir
+
+Gombe United FC:
+
+Miko Dalha 
+Joel Zakariah
+
+Heartland FC:
+
+Daniel Ekpo 
+Mohammed Hadi 
+Murphy Ndukwu
+Joshua Odo
+
+Casa Sports:
+
+Aliou Dième 
+Boubacar Coly 
+Sulayman Faal 
+Nfally Sagna 
+
+
+ASC Diaraf:
+
+Pape Cire Dia
+
+Génération Foot:
+
+Abdourahmane Mbodj
+
+Teungueth FC:
+
+Mbaye Jacques Ndiaye
+
+Teungueth FC:
+
+Libasse Guèye 
+Malick Ndoye 
+Youssou Paye
+
+US Gorée:
+
+Oumar Ba 
+Ousmane Mbengue 
+Alassane Diallo 
+
+ASC Linguère:
+
+Mouchid Iyane Ly
+
+ASC Niarry Tally
+
+Mouhamed Niang Diop 
+Ablaye Ndao 
+Aziz Ba
+Pape Thiaw 
+
+Guédiawaye FC:
+
+Moustapha Fanné 
+Abdou Salam Ndoye
+
+Mamelodi Sundowns:
+
+Iqraam Rayners
+Peter Shalulile
+Brayan León 
+Arthur Sales
+
+Orlando Pirates:
+
+Oswin Appollis 
+Evidence Makgopa 
+Tshepang Moremi
+
+Kaizer Chiefs:
+
+Flávio Silva 
+Ashley Du Preez 
+Makabi Lilepo
+
+SuperSport United:
+
+Bradley Grobler
+
+Chippa United:
+
+Sinoxolo Kwayiba 
+Justice Figuareido
+
+Baroka FC:
+
+Siphelele Mthembu 
+
+TS Galaxy:
+
+Samir Nurković
+Sphiwe Mahlangu
+
+Maritzburg United:
+
+Friday Samu 
+Mamour Niang 
+Samkelo Maseko
+Joslin Kamatuka
+
+Espérance de Tunis:
+
+Malick Evouna
+Ellyes Chaïbi 
+Bilel Agueni
+Hassine Khedher 
+
+Étoile Sportive du Sahel:
+
+Ayoub El Kaabi 
+Mootez Zaddem 
+Amine Chermiti
+Hatem Bouabda 
+
+Club Africain:
+
+Zied Boughattas 
+Houssem Dagdoug 
+Thameur Dhahbi 
+Yassine Chamakhi 
+
+CS Sfaxien:
+
+Ali Abdi 
+Khalil Chemmam 
+Issam Mrah 
+Nizar Ben Nasra
+
+
+US Monastir:
+
+Christopher Katongo 
+Youssef Msakni 
+Mehdi Ben Tahar 
+Ramzi Ben Younes
+
+Olympique Béja:
+
+Yassine Chabbi 
+Mahmoud Ben Mohamed 
+Alaeddine Ghram 
+Firas Jlida
+
+AS Gabès:
+
+Noureddine Ben Khedher
+Bilel Abdelkefi 
+Mohamed Ali Ghram 
+Houcine Deguiche 
+
+JS Kairouan:
+
+Bilel Naija 
+Khaled Soufi
+Aymen Ben Rejeb 
+Mohamed Ali Souilah
+
+Zesco United:
+
+Abraham Siankombo 
+Elvis Bernard Addae
+Chijoke Alaekwe 
+Emmanuel Mwanza
+
+Nkana FC:
+
+Harrison Chisala 
+
+Green Buffaloes:
+
+Lucky Bwalya 
+
+Forest Rangers:
+
+H. Katwishi 
+
+Kabwe Warriors:
+
+Jimmy Ndhlovu 
+
+Nchanga Rangers:
+
+Bornwell Mwape 
+
+Power Dynamos:
+
+Benson Sakala 
+Reagan Nkuy 
+
+Red Arrows:
+
+Wilfred Sikanyika
+
+Dynamos FC:
+
+Emmanuel Jalai 
+
+Highlanders FC:
+
+Reason Sibanda
+
+Ngezi Platinum FC:
+
+Takunda Benhura
+
+CAPS United:
+
+Ishmael Wadi 
+Love Bissila 
+Phineas Bamusi 
+William Manondo
+
+Hwange FC:
+
+Marceline Mlilo
+
+Black Rhinos FC:
+
+Gilbert Mushangazhike 
+Robson Chisango
+
+Chicken Inn FC:
+
+Brian Muza 
+Michael Charamba 
+Brighton Makopa
+
+Bulawayo Chiefs FC:
+
+Charles Sibanda
