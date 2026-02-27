@@ -1,10 +1,10 @@
 USE Marcatori
-TRUNCATE TABLE [dbo].[Marcatori]
-TRUNCATE TABLE [dbo].[Squadre]
-TRUNCATE TABLE [dbo].[Leghe]
-TRUNCATE TABLE [dbo].[Nazioni]
-
-
+DELETE FROM [dbo].[Goal]
+DELETE FROM [dbo].[Marcatori]
+DELETE FROM	[dbo].[Partite]	
+DELETE FROM [dbo].[Squadre]
+DELETE FROM [dbo].[Leghe]
+DELETE FROM [dbo].[Nazioni] 
 
  
 INSERT INTO [dbo].[Nazioni] (Id, Nome)
