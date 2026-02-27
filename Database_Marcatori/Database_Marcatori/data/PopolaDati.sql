@@ -282,7 +282,7 @@ VALUES
 (191, 48, 'Gyirmót', ''),
 (192, 48, 'Zalaegerszeg', '')
 
-  INSERT INTO [dbo].[Partite] (Id, Id_Squadra_Casa, Id_Squadra_Ospite)
+  INSERT INTO [dbo].[Partite] (Id, Id_Squadra_Casa, Id_Squadra_Ospite, data)
   VALUES
 
 (1,1,2,'2026-01-01'),
@@ -1380,8 +1380,82 @@ INSERT INTO [dbo].[Marcatori] (Id, Id_Squadra, Nome, Cognome, Nazionalità)
 (513,171,'Alex','Teixeira','Brasile'),
 (514,172,'Anthony','Nwakaeme','Nigeria'),
 (515,172,'Bakary','Kone','Costa d’Avorio'),
-(516,172,'Vitor','Hugo','Brasile')
+(516,172,'Vitor','Hugo','Brasile'),
+(517, 173, 'Emir', 'Kaan Gültekin', 'Turchia'),
+(518, 173, 'Valon', 'Ethemi', 'Macedonia del Nord'),
+(519, 173, 'Ibrahim', 'Yilmaz', 'Turchia'),
+(520, 174, 'Douglas', 'Tanque', 'Brasile'),
+(521, 174, 'Marcão', 'Teixeira', 'Brasile'),
+(522, 174, 'Oğulcan', 'Çağlayan', 'Turchia'),
+(523, 175, 'Ali', 'Sowe', 'Gambia'),
+(524, 175, 'Renaldo', 'Ceara', 'Brasile'),
+(525, 175, 'Federico', 'Macheda', 'Italia'),
+(526, 176, 'Marius', 'Mouandilmadji', 'Ciad'),
+(527, 176, 'Emre', 'Kılınç', 'Turchia'),
+(528, 176, 'Landry', 'Dimata', 'Belgio'),
+(529, 177, 'Danylo', 'Sikan', 'Ucraina'),
+(530, 177, 'Lassina', 'Traoré', 'Burkina Faso'),
+(531, 177, 'Eguinaldo', 'Silva', 'Brasile'),
+(532, 178, 'Vladyslav', 'Vanat', 'Ucraina'),
+(533, 178, 'Andriy', 'Yarmolenko', 'Ucraina'),
+(534, 178, 'Benito', 'Raman', 'Belgio'),
+(535, 179, 'Eduardo', 'Guerrero', 'Panama'),
+(536, 179, 'Denys', 'Antyukh', 'Ucraina'),
+(537, 179, 'Igor', 'Gorbach', 'Ucraina'),
+(538, 180, 'Ruslan', 'Stepanyuk', 'Ucraina'),
+(539, 180, 'Felipe', 'Rodrigues', 'Brasile'),
+(540, 180, 'Dmytro', 'Kravchenko', 'Ucraina'),
+(541, 181, 'Andriy', 'Boryachuk', 'Ucraina'),
+(542, 181, 'Oleksandr', 'Filippov', 'Ucraina'),
+(543, 181, 'Denys', 'Ustymenko', 'Ucraina'),
+(544, 182, 'Danylo', 'Alefirenko', 'Ucraina'),
+(545, 182, 'Oleksii', 'Khoblenko', 'Ucraina'),
+(546, 182, 'Artem', 'Habelok', 'Ucraina'),
+(547, 183, 'Oleksandr', 'Kozak', 'Ucraina'),
+(548, 183, 'Danylo', 'Sydorenko', 'Ucraina'),
+(549, 183, 'Artem', 'Shcherbak', 'Ucraina'),
+(550, 184, 'Artem', 'Kozak', 'Ucraina'),
+(551, 184, 'Bohdan', 'Kushnirenko', 'Ucraina'),
+(552, 184, 'Vladyslav', 'Shapoval', 'Ucraina'),
+(553, 185, 'Barnabás', 'Varga', 'Ungheria'),
+(554, 185, 'Adama', 'Traoré', 'Mali'),
+(555, 185, 'Kristoffer', 'Zachariassen', 'Norvegia'),
+(556, 186, 'Jakub', 'Plsek', 'Repubblica Ceca'),
+(557, 186, 'Zsolt', 'Nagy', 'Ungheria'),
+(558, 186, 'Lamin', 'Colley', 'Gambia'),
+(559, 187, 'Bence', 'Bíró', 'Ungheria'),
+(560, 187, 'Marko', 'Futács', 'Ungheria'),
+(561, 187, 'Nenad', 'Lukic', 'Serbia'),
+(562, 188, 'Dorian', 'Babunski', 'Macedonia del Nord'),
+(563, 188, 'Bálint', 'Bárány', 'Ungheria'),
+(564, 188, 'Manrique', 'Zamorano', 'Spagna'),
+(565, 189, 'Filip', 'Holender', 'Ungheria'),
+(566, 189, 'Márton', 'Radó', 'Ungheria'),
+(567, 189, 'Milos', 'Krstic', 'Serbia'),
+(568, 190, 'Marin', 'Jurina', 'Croazia'),
+(569, 190, 'Dániel', 'Prosser', 'Ungheria'),
+(570, 190, 'Bojan', 'Miovski', 'Macedonia del Nord'),
+(571, 191, 'Kristóf', 'Bedi', 'Ungheria'),
+(572, 191, 'Máté', 'Kiss', 'Ungheria'),
+(573, 191, 'Patrick', 'Major', 'Ungheria'),
+(574, 192, 'Antonio', 'Mance', 'Croazia'),
+(575, 192, 'Dániel', 'Németh', 'Ungheria'),
+(576, 192, 'Eduvie', 'Ikoba', 'Nigeria')
 
+SELECT * FROM [dbo].[Nazioni] 
+SELECT Id FROM [dbo].[Leghe]
+WHERE Id_Nazione = SELECT * FROM [dbo].[Nazioni] 
 
+SELECT Id FROM [dbo].[Squadre]
+WHERE Id_Lega = SELECT Id FROM [dbo].[Leghe]
 
+SELECT Id_Squadra_Casa, Id_Squadra_Ospite FROM [dbo].[Partite]	
+WHERE Id_Squadra_Casa = SELECT Id FROM [dbo].[Squadre]
+OR Id_Squadra_Ospite = SELECT Id FROM [dbo].[Squadre]
 
+SELECT Id FROM [dbo].[Marcatori]
+WHERE Id_Squadra = SELECT Id_Squadra_Casa FROM [dbo].[Partite]	
+OR Id_Squadra = SELECT Id_Squadra_Ospite FROM [dbo].[Partite]	
+AND Id_squadra = SELECT Id FROM [dbo].[Squadre]
+
+SELECT Id_Marcatore FROM [dbo].[Goal]  
