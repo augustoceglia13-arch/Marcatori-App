@@ -1459,3 +1459,4 @@ OR Id_Squadra = SELECT Id_Squadra_Ospite FROM [dbo].[Partite]
 AND Id_squadra = SELECT Id FROM [dbo].[Squadre]
 
 SELECT Id_Marcatore FROM [dbo].[Goal]  
+
