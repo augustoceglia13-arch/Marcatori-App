@@ -1460,3 +1460,34 @@ AND Id_squadra = SELECT Id FROM [dbo].[Squadre]
 
 SELECT Id_Marcatore FROM [dbo].[Goal]  
 
+
+<table class="griglia-marcatori">
+    <thead>
+        <tr>
+            <th>Nome Giocatore</th>
+            <th>Squadra</th>
+            <th>Gol</th>
+            <th>Nazionalità</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Kilian Mbappe</td>
+            <td>Real Madrid</td>
+            <td>23</td>
+            <td>Francese</td>
+        </tr>
+        <tr>
+            <td>Lamin yamal</td>
+            <td>Barcellona</td>
+            <td>16</td>
+            <td>Spagnolo</td>
+        </tr>
+        <tr>
+            <td>Jonathan David</td>
+            <td>Juventus</td>
+            <td>3</td>
+            <td>Canadese</td>
+        </tr>
+    </tbody>
+</table>
