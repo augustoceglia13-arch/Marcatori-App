@@ -1,6 +1,7 @@
 <Solution>
-  <Project Path="Database_Marcatori/Database_Marcatori.sqlproj">
+  <Project Path="Database_Marcatori/Database_Marcatori.sqlproj" Id="a0e2432b-27f2-47f2-81c7-8cdb31fc7bbc">
     <Build />
     <Deploy />
   </Project>
+  <Project Path="MarcatoriWebSite/MarcatoriWebSite.csproj" Id="06d5573d-7dcf-4d2f-b9e8-00151a048e0b" />
 </Solution>
