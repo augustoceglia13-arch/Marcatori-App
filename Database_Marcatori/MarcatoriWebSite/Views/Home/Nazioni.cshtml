@@ -5,4 +5,86 @@
 
 <p>scegli la nazione del campionato al quale sei interessato per sapere la classiffica marcatori e noi te la sveleremo.</p>
 
- 
+@model IEnumerable<Nazione>
+
+<style>
+    .griglia-nazioni {
+        width: 80%; 
+        margin: 50px auto; 
+        border-collapse: collapse;
+        max-height: 90vh; 
+        overflow-y: auto; 
+        display: block; 
+    }
+
+        .griglia-nazioni th,
+        .griglia-nazioni td {
+            border: 1px solid black;
+            padding: 12px;
+            text-align: center;
+        }
+
+        .griglia-nazioni th {
+            background-color: #f2f2f2;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+        }
+
+    .foto-nazione {
+        width: 60px;
+        height: 40px;
+        object-fit: cover;
+        border-radius: 4px;
+    }
+
+    <!DOCTYPE html >
+    <html >
+    <head >
+    <style >
+    div.ex1 {
+        background-color: lightblue;
+        height: 200px; 
+        width: 100%; 
+        overflow-y: scroll; 
+    }
+
+    .griglia-nazioni {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .griglia-nazioni th, .griglia-nazioni td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+</style>
+</head>
+<body>
+
+    <div class="ex1">
+        <table class="griglia-nazioni">
+            <thead>
+                <tr>
+                    <th>Foto</th>
+                    <th>Nazione</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var nazione in Model)
+                {
+                    <tr>
+                        <td>
+                             <img src="https://flagcdn.com/w80/@(nazione.CodiceISO.ToLower()).png"
+                                 alt="@nazione.Nome"
+                                 class="foto-nazione" />
+                        </td>
+                        <td>@nazione.Nome</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

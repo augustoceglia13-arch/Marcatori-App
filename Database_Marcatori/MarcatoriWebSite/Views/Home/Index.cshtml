@@ -13,26 +13,6 @@
 		height: 50vh;
 	}
 
-	.griglia-marcatori {
-		position: absolute;
-		top: 50%;
-		left: 5%;
-		transform: translateY(-50%);
-		width: 55%;
-		height: 60vh;
-		border-collapse: collapse;
-	}
-
-		.griglia-marcatori th,
-		.griglia-marcatori td {
-			border: 1px solid black;
-			padding: 12px;
-			text-align: center;
-		}
-
-		.griglia-marcatori th {
-			background-color: #f2f2f2;
-		}
 </style>
 
 <img src="https://4.bp.blogspot.com/-C-rvcHHGnBo/W_xYnj2itvI/AAAAAAABvx0/mvQ0p9gEriMsm5z51nCg0twuHBxqd_klgCLcBGAs/s1600/dybala.jpg"
@@ -46,26 +26,3 @@
 		presente in un team europeo, scegli pure la nazione del tuo team.
 	</p>
 </div>
-
-
-
-<table class="griglia-marcatori">
-	<thead>
-		<tr>
-			<th>Lega</th>
-			<th>Nazione</th>
-			<th>NumPartite</th>
-		</tr>
-	</thead>
-	<tbody>
-		@foreach (var campionato in Model)
-		{
-			<tr>
-				<td>@campionato.Lega</td>
-				<td>@campionato.Nazione</td>
-				<td>@campionato.NumPartite</td>
-			</tr>
-		}
-
-	</tbody>
-</table>
