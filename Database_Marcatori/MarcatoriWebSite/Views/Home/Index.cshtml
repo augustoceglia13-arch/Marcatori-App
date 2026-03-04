@@ -1,85 +1,71 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model List<Campionato>
+@{
+	ViewData["Title"] = "Home Page";
 }
 
 <style>
-    .foto-destra {
-        position: absolute;
-        top: 50%;
-        right: 40px;
-        transform: translateY(-50%);
-        width: 25vw;
-        height: 50vh;
-    }
+	.foto-destra {
+		position: absolute;
+		top: 50%;
+		right: 40px;
+		transform: translateY(-50%);
+		width: 25vw;
+		height: 50vh;
+	}
 
-    .griglia-marcatori {
-        position: absolute;
-        top: 50%;
-        left: 5%;
-        transform: translateY(-50%);
-        width: 55%; 
-        height: 60vh; 
-        border-collapse: collapse;
-    }
+	.griglia-marcatori {
+		position: absolute;
+		top: 50%;
+		left: 5%;
+		transform: translateY(-50%);
+		width: 55%;
+		height: 60vh;
+		border-collapse: collapse;
+	}
 
-        .griglia-marcatori th,
-        .griglia-marcatori td {
-            border: 1px solid black;
-            padding: 12px;
-            text-align: center;
-        }
+		.griglia-marcatori th,
+		.griglia-marcatori td {
+			border: 1px solid black;
+			padding: 12px;
+			text-align: center;
+		}
 
-        .griglia-marcatori th {
-            background-color: #f2f2f2;
-        }
+		.griglia-marcatori th {
+			background-color: #f2f2f2;
+		}
 </style>
 
 <img src="https://4.bp.blogspot.com/-C-rvcHHGnBo/W_xYnj2itvI/AAAAAAABvx0/mvQ0p9gEriMsm5z51nCg0twuHBxqd_klgCLcBGAs/s1600/dybala.jpg"
-     class="foto-destra"
-     alt="Foto">
+	 class="foto-destra"
+	 alt="Foto">
 
 <div class="text-center">
-    <h1 class="display-4">Benvenuto</h1>
-    <p>
-        Questo è il sito dei marcatori europei dove puoi trovare qualsiasi attaccante
-        presente in un team europeo, scegli pure la nazione del tuo team.
-    </p>
+	<h1 class="display-4">Benvenuto</h1>
+	<p>
+		Questo è il sito dei marcatori europei dove puoi trovare qualsiasi attaccante
+		presente in un team europeo, scegli pure la nazione del tuo team.
+	</p>
 </div>
 
 
+
 <table class="griglia-marcatori">
-    <thead>
-        <tr>
-            <th>Nome Giocatore</th>
-            <th>Squadra</th>
-            <th>Gol</th>
-            <th>Nazionalità</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Kilian Mbappe</td>
-            <td>Real Madrid</td>
-            <td>23</td>
-            <td>Francese</td>
-        </tr>
-        <tr>
-            <td>Lamin yamal</td>
-            <td>Barcellona</td>
-            <td>16</td>
-            <td>Spagnolo</td>
-        </tr>
-        <tr>
-            <td>Jonathan David</td>
-            <td>Juventus</td>
-            <td>3</td>
-            <td>Canadese</td>
-        </tr>
-        <tr>
-            <td>Harry Kane</td>
-            <td>Bayern Munchen</td>
-            <td>20</td>
-            <td>Inglese</td>
-        </tr>
-    </tbody>
+	<thead>
+		<tr>
+			<th>Lega</th>
+			<th>Nazione</th>
+			<th>NumPartite</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var campionato in Model)
+		{
+			<tr>
+				<td>@campionato.Lega</td>
+				<td>@campionato.Nazione</td>
+				<td>@campionato.NumPartite</td>
+			</tr>
+		}
+
+	</tbody>
 </table>
